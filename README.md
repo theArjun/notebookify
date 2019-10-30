@@ -2,7 +2,7 @@
 By Arjun Adhikari
 
 
-This chrome browser extension allows to redirect the .IPYNB files from github to Jupyter Notebook.
+This chrome browser extension allows to redirect the .IPYNB files from github to Jupyter Notebook viewer (nbviewer).
 
 ## Installation
 
